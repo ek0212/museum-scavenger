@@ -2,11 +2,6 @@
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗-View%20on%20Hugging%20Face-blue?logo=huggingface&logoColor=yellow)](https://huggingface.co/spaces/ek0212/museum-scavenger)
 
-<!-- 
-![App Main Screenshot](images/screenshot_main.png)
-_Add your main UI screenshot above_
--->
-
 ## 🎯 What is this?
 
 This app generates engaging **museum scavenger hunts** featuring real artworks currently on view, complete with clues and historical context — perfect for museum visitors, students, and art lovers!
@@ -14,10 +9,8 @@ This app generates engaging **museum scavenger hunts** featuring real artworks c
 - 🌐 **Live Demo:** [Hugging Face Space](https://huggingface.co/spaces/ek0212/museum-scavenger)
 - ⚙️ **Built with:** [CrewAI](https://github.com/joaomdmoura/crewAI), Gradio, and Hugging Face Spaces
 
-<!-- 
-![Sample Scavenger Hunt Output](images/sample_output.png)
-_Add a sample scavenger hunt output screenshot above_
--->
+<img src="images/crew_executing.png" style="width: 100%; max-width: 600px;"/>
+<img src="images/crew_executing_2.png" style="width: 100%; max-width: 600px;"/>
 
 ## ✨ Features
 
