@@ -20,6 +20,7 @@ This app generates engaging **museum scavenger hunts** featuring real artworks c
 
 - 🌐 **Live Demo:** [Hugging Face Space](https://huggingface.co/spaces/ek0212/museum-scavenger)
 - ⚙️ **Built with:** [CrewAI](https://github.com/joaomdmoura/crewAI), Gradio, and Hugging Face Spaces
+<img src="images/homepage.png" style="width: 100%; max-width: 600px;"/>
 
 ## ✨ Features
 
