@@ -1,0 +1,12 @@
+crewai>=0.28.2
+gradio>=4.14.0
+python-dotenv>=1.0.0
+huggingface-hub>=0.19.4
+asyncio>=3.4.3
+nest-asyncio>=1.5.8
+fastapi>=0.104.1
+uvicorn>=0.24.0
+langchain>=0.0.335
+langchain-huggingface>=0.1.2
+sentence-transformers>=2.2.2
+crewai-tools>=0.33.0
