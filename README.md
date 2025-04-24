@@ -9,9 +9,6 @@ This app generates engaging **museum scavenger hunts** featuring real artworks c
 - 🌐 **Live Demo:** [Hugging Face Space](https://huggingface.co/spaces/ek0212/museum-scavenger)
 - ⚙️ **Built with:** [CrewAI](https://github.com/joaomdmoura/crewAI), Gradio, and Hugging Face Spaces
 
-<img src="images/crew_executing.png" style="width: 100%; max-width: 600px;"/>
-<img src="images/crew_executing_2.png" style="width: 100%; max-width: 600px;"/>
-
 ## ✨ Features
 
 - 🔍 Curates scavenger hunts for any museum, using multiple AI "agents" (CrewAI)
@@ -22,6 +19,9 @@ This app generates engaging **museum scavenger hunts** featuring real artworks c
 ## 🚦 Progress Display Note
 
 > **ℹ️ On Hugging Face Spaces, you can currently only view step-by-step progress in the _Space logs_ (found under the "Logs" tab) — not directly in the app interface. The final scavenger hunt result will display in the app when complete.**
+### Demo Images
+<img src="images/crew_executing.png" style="width: 100%; max-width: 600px;"/>
+<img src="images/crew_executing_2.png" style="width: 100%; max-width: 600px;"/>
 
 ## 🚀 How it Works
 
